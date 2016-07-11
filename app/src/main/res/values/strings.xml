@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="page_title_1">Tourist Attractions</string>
+    <string name="page_title_2">Parks</string>
+    <string name="page_title_3">Hotels</string>
+    <string name="page_title_4">Events</string>
+
+    <string name="tourist_attraction_1_title">CN Tower</string>
+    <string name="tourist_attraction_1_description">The CN Tower is Toronto\'s tallest and most defining landmark featuring a glass floor &amp; a revolving eatery with panoramic views.</string>
+    <string name="tourist_attraction_1_uri">43.6425701,-79.38924556</string>
+    <string name="tourist_attraction_1_address">301 Front St W, Toronto, ON M5V 2T6</string>
+
+    <string name="tourist_attraction_2_title">ROM</string>
+    <string name="tourist_attraction_2_description">Canada\'s largest museum of world cultures and natural history, the ROM has more than six million objects in its collections and galleries showcasing art, archaeology and science.</string>
+    <string name="tourist_attraction_2_uri">43.6424537,-79.3861234</string>
+    <string name="tourist_attraction_2_address">100 Queens Park, Toronto, ON M5S 2C6</string>
+
+    <string name="tourist_attraction_3_title">Ripleys Aquarium</string>
+    <string name="tourist_attraction_3_description">Immerse yourself in a world of 16000 aquatic animals and discover your own underwater adventure at Ripley\'s Aquarium.</string>
+    <string name="tourist_attraction_3_uri">43.6424576,-79.3883121</string>
+    <string name="tourist_attraction_3_address">288 Bremner Blvd, Toronto, ON M5V 3L9</string>
+
+    <string name="parks_1_title">High Park</string>
+    <string name="parks_1_description">This large, centrally located park is a jewel in Toronto\’s park system. High Park combines extensive natural areas with maintained parkland, recreational facilities and popular attractions for a unique urban park experience that can be enjoyed year-round.</string>
+    <string name="parks_1_uri">43.6465518,-79.465879</string>
+    <string name="parks_1_address">1873 Bloor St W, Toronto, ON M6R 2Z3</string>
+
+    <string name="parks_2_title">Centre Island</string>
+    <string name="parks_2_description">Centre Island in Toronto is a surprising getaway just a 20 minute ferry ride away.</string>
+    <string name="parks_2_uri">43.6230069,-79.3946795</string>
+    <string name="parks_2_address">Toronto Islands Toronto, Ontario M5J 1A7</string>
+
+    <string name="parks_3_title">Bluffers Park</string>
+    <string name="parks_3_description">Bluffs stretch for about 14 km along the Lake Ontario shore, from the Eastern Beaches of Toronto in the west, to West Hill in the east.</string>
+    <string name="parks_3_uri">43.7033976,-79.2425179</string>
+    <string name="parks_3_address">61 Under Cliff Dr, Scarborough, ON M1N 3Z5</string>
+
+    <string name="hotel_1_title">Drake Hotel</string>
+    <string name="hotel_1_description">The Drake Hotel is a boutique hotel located in the heart of the arts scene and a winner of Fodor\'s 100 Hotel Award 2011. From live music to great food, art and people, the Drake is Toronto\'s hotbed for culture.</string>
+    <string name="hotel_1_uri">43.6432583,-79.4268245</string>
+    <string name="hotel_1_address">1150 Queen St W, Toronto, ON M6J 1J3</string>
+
+    <string name="hotel_2_title">Four Seasons Hotel</string>
+    <string name="hotel_2_description">Experience the elegant sophistication of Four Seasons Hotel Toronto in the heart of Yorkville, steps from upscale shopping and dining quarters</string>
+    <string name="hotel_2_uri">43.6715139,-79.3915157</string>
+    <string name="hotel_2_address">60 Yorkville Ave, Toronto, ON M4W 0A4</string>
+
+    <string name="hotel_3_title">Shangri La Hotel</string>
+    <string name="hotel_3_description">Our luxury 5-star Shangri-La Hotel, Toronto provides comfortably appointed rooms, suites and restaurants as well as excellent amenities.</string>
+    <string name="hotel_3_uri">43.649032,-79.3882139</string>
+    <string name="hotel_3_address">188 University Ave, Toronto, ON M5H 0A3</string>
+
+    <string name="events_1_title">CNE</string>
+    <string name="events_1_description">One of North America’s largest annual fairs, the CNE offers up 18 days of amusement park rides, live entertainment, food, shopping, and more. And, if you’re an airplane enthusiast, the Canadian International Air Show drops jaws every summer when their pilots perform dare-devil loop-de-loops and synchronized maneuvers on the last weekend of the summer.</string>
+    <string name="events_1_uri">43.6330595,-79.4247969</string>
+    <string name="events_1_address">210 Princes\' Blvd, Toronto, ON M6K 3C3</string>
+
+    <string name="events_2_title">TIFF</string>
+    <string name="events_2_description">The Toronto International Film Festival is a publicly attended film festival held each September in Toronto.</string>
+    <string name="events_2_uri">43.6466328,-79.3924997</string>
+    <string name="events_2_address">Tiff Bell Lightbox, 350 King St W, Toronto, ON M5V 3C6</string>
+
+    <string name="events_3_title">Fan Expo</string>
+    <string name="events_3_description">Fan Expo Canada is an annual multi-genre fan convention.</string>
+    <string name="events_3_uri">43.6466663,-79.4078206</string>
+    <string name="events_3_address">255 Front St W, Toronto, ON M5V 2W6</string>
+</resources>
